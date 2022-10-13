@@ -20,6 +20,8 @@ Customers must be able to:
 - View Transaction History
 - Logout
 
+![image (2)](https://user-images.githubusercontent.com/75582893/195667951-2fb70a24-020c-47a7-a450-f835eb8a0150.png)
+
 ![image (1)](https://user-images.githubusercontent.com/75582893/195463233-7d5e68df-a12e-429d-8b31-dce1b9cbe5aa.png)
 
 Here is the database schema this is the first thing I did.
