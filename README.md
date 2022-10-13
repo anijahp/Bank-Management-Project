@@ -25,9 +25,11 @@ I created a transaction table to record transactions. Each account can have many
 
 
 <img width="697" alt="Screen Shot 2022-10-12 at 6 17 50 PM" src="https://user-images.githubusercontent.com/75582893/195458500-54095efd-a35a-403d-926b-c8859ad45ce9.png">
-Initial Login Menu
+Starting Menu
+
 
 <img width="794" alt="Screen Shot 2022-10-12 at 6 40 56 PM" src="https://user-images.githubusercontent.com/75582893/195461154-fa61a4fa-ab6a-4b1a-aeec-1daf6af40bec.png">
+Employee Login Menu
 
 The employee menu allows employees to access their bank account information. Only employees should access this menu and as the menu loads the employee will see all of their information such as their bank name, branch number, and current balance. From here employees can select 4 options: create customer information, create a customer account, view all customers, or log out.
 
